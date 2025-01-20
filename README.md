@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on NoPing Tunnel
-- 🌱 I’m currently learning Design Patterns and Solutions Architecture
+- 🔭 I’m currently working on Doctoralia/Docplanner Group
+- 🌱 I’m currently learning Solutions Architecture
 - 👯 I’m looking to collaborate on anyone who need some help
 - 🤔 I’m looking for help with Occupy my brain? (Paranoid quote)!
 - 💬 Ask me about anything
